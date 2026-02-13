@@ -1,7 +1,7 @@
 
 # DAXL: The Duncan Automation XL Spreadsheet Tool
 
-## [GET THE DOCS ON THE WIKI](../ignition-daxl/wiki)
+## [GET THE DOCS ON THE WIKI](./wiki)
 
 ### Professional Spreadsheet Integration for Ignition by Inductive Automation
 
@@ -60,4 +60,5 @@ Environment Compatibility: Designed to function seamlessly across the Gateway, D
 ### Engineered for Reliability
 
 Don't waste billable hours debugging raw Java file streams or managing external .jar files. DAXL provides a stable, supported framework that lets you focus on the logic of your application rather than the mechanics of the file format.
+
 
