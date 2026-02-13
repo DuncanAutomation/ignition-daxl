@@ -1,7 +1,7 @@
 
 # DAXL: The Duncan Automation XL Spreadsheet Tool
 
-<H2>[GET THE DOCS ON THE WIKI](../ignition-daxl/wiki)
+## [GET THE DOCS ON THE WIKI](../ignition-daxl/wiki)
 
 ### Professional Spreadsheet Integration for Ignition by Inductive Automation
 
