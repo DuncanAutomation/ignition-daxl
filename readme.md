@@ -1,6 +1,8 @@
 
 # DAXL: The Duncan Automation XL Spreadsheet Tool
 
+## [Get the Docs on the here.]: (https://github.com/DuncanAutomation/ignition-daxl/wiki "Wiki")
+
 ### Professional Spreadsheet Integration for Ignition by Inductive Automation
 
 Bridging the gap between the plant floor and the front office shouldn't mean wrestling with complex Java libraries.
@@ -21,37 +23,37 @@ Environment Compatibility: Designed to function seamlessly across the Gateway, D
 
 #### Workbook Tools
 
-    system.daxl.workbook.uploadWorkbook
-    system.daxl.workbook.downloadWorkbook
-    system.daxl.workbook.openWorkbook
-    system.daxl.workbook.saveWorkbook
-    system.daxl.workbook.newWorkbook
+* system.daxl.workbook.uploadWorkbook
+* system.daxl.workbook.downloadWorkbook
+* system.daxl.workbook.openWorkbook
+* system.daxl.workbook.saveWorkbook
+* system.daxl.workbook.newWorkbook
 
 #### Sheet Tools
 
-    system.daxl.sheet.getSheetCount
-    system.daxl.sheet.getSheetNames
-    system.daxl.sheet.appendSheet
-    system.daxl.sheet.insertSheet
-    system.daxl.sheet.copySheet
-    system.daxl.sheet.moveSheet
-    system.daxl.sheet.renameSheet
-    system.daxl.sheet.deleteSheet
+* system.daxl.sheet.getSheetCount
+* system.daxl.sheet.getSheetNames
+* system.daxl.sheet.appendSheet
+* system.daxl.sheet.insertSheet
+* system.daxl.sheet.copySheet
+* system.daxl.sheet.moveSheet
+* system.daxl.sheet.renameSheet
+* system.daxl.sheet.deleteSheet
 
 
 #### Dataset Tools
 
-    system.daxl.dataset.datasetToSheet
-    system.daxl.dataset.datasetFromSheet
-    system.daxl.dataset.datasetAppendFromSheet
+* system.daxl.dataset.datasetToSheet
+* system.daxl.dataset.datasetFromSheet
+* system.daxl.dataset.datasetAppendFromSheet
 
 #### Content Tools
 
-    system.daxl.content.appendRow
-    system.daxl.content.insertRow
-    system.daxl.content.getCell
-    system.daxl.content.setCell
-    system.daxl.content.???
+* system.daxl.content.appendRow
+* system.daxl.content.insertRow
+* system.daxl.content.getCell
+* system.daxl.content.setCell
+* system.daxl.content.*
 
 
 
